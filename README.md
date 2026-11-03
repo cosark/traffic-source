@@ -36,6 +36,8 @@ Built by the team behind [SuperDevPro](https://superdevpro.com) · [NoCode Web S
 
 ### Option 1: One-click deploy on Railway
 
+<a href="https://repocloud.io/details/Traffic%20Source/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="40"></a>
+
 No VPS setup needed — deploy in one click and you're live in under a minute.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/traffic-source)
